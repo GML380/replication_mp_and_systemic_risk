@@ -1,6 +1,4 @@
-# replication_mp_and_systemic_risk
-
-This repo can be used to replicate all outputs displayd in 
+# Replication files to 
 
 *[Leitner, G., Hübel, T., Wolfmayr, A., & Zerobin, M. (2021). How risky is Monetary Policy? The Effect of Monetary Policy on Systemic Risk in the Euro Area.](https://epub.wu.ac.at/8062/)*
 
